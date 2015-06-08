@@ -1,0 +1,42 @@
+{
+  "name": "inherit-class",
+  "version": "1.0.0",
+  "description": "util.inherits without the cruft",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "inherits",
+    "node",
+    "es5",
+    "js",
+    "extend",
+    "extends",
+    "class",
+    "inheritance",
+    "inherited",
+    "util",
+    "browser",
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/inherit-class.git"
+  },
+  "homepage": "https://github.com/mattdesl/inherit-class",
+  "bugs": {
+    "url": "https://github.com/mattdesl/inherit-class/issues"
+  }
+}
