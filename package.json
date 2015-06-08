@@ -1,6 +1,6 @@
 {
   "name": "inherit-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "util.inherits without the cruft",
   "main": "index.js",
   "license": "MIT",
